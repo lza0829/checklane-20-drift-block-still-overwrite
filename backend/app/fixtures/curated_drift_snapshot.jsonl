@@ -1,0 +1,4 @@
+{"entity_key":"G-1","sku":"SKU-G1","price":10.0,"qty":1,"title":"基线行一"}
+{"entity_key":"G-2","sku":"SKU-G2","price":99.0,"qty":2,"title":"基线行二"}
+{"entity_key":"G-3","sku":"SKU-G3-NEW","price":30.0,"qty":3,"title":"基线行三"}
+{"entity_key":"G-5","sku":"SKU-G5","price":50.0,"qty":5,"title":"本批新键"}
